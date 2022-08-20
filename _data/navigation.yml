@@ -8,5 +8,5 @@ links:
     collection: example-folder
   - title: Menu Title
     collection: hello
-  - title: Menu Title
-    url: /permalink
+  - title: Content
+    url: /content/permalink
